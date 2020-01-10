@@ -1,7 +1,7 @@
-class HelloWorld{
+class Hello{
 	public static void main(String args[]){
 
-		System.out.println("Expected as "+new java.util.Date());
+		System.out.println("Modified Expected as "+new java.util.Date());
 
 }
 
